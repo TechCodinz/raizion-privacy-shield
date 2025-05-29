@@ -1,0 +1,35 @@
+
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# VS Code
+.vscode/
+
+# Python environment
+env/
+venv/
+ENV/
+*.env
+*.egg-info/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Flutter
+build/
+.flutter-plugins
+.packages
+.pub-cache
+.idea/
+
+# Node / React Native
+node_modules/
+npm-debug.log
+yarn-error.log
+.expo/
